@@ -1,0 +1,32 @@
+.chalisa-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: repeating-linear-gradient(45deg, rgba(226, 226, 226,0.06) 0px, rgba(226, 226, 226,0.06) 2px,transparent 2px, transparent 4px),linear-gradient(90deg, rgb(33,33,33),rgb(33,33,33));
+    background-size: cover;
+    height: 100%;
+}
+.heading{
+    color: aliceblue;
+    margin-top: 10px;
+    font-size: 50px;
+}
+.h2-heading{
+    color: #efca08;
+    font-size: 40px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.doha{
+    color: #faedcd;
+    font-size: 25px;
+    
+}
+.chaupai{
+    color: #d6ccc2;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
